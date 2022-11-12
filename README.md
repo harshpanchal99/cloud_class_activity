@@ -1,0 +1,1 @@
+docker build -t harshpanchal99/cloud_class_activity .
